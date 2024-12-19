@@ -1,4 +1,4 @@
-
+<h1 align="center">Snake Game</h1>
 
 This python project shows use of Object Oriented Programming OOP to create the viral snake game.
 Various classes from packages were used but most abundantly the Turtle package was used throughout this project.
